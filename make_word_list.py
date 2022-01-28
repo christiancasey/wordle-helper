@@ -2,7 +2,7 @@ import os
 import pickle
 import re
 
-f = open('words_alpha.txt', 'r')
+f = open('wordlist.txt', 'r')
 
 s = f.read()
 words = s.splitlines()
