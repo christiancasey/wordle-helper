@@ -16,3 +16,8 @@
 * The wordlist includes some entries that Wordle doesn't consider words
 * You can press `return` to select the first input in the list
 * You can type `m` or `more` to get more choices
+
+## Acknowledgments
+
+The data for this program is based on [Hannah Park's Wordle clone](https://github.com/hannahcode/wordle).
+Try it out using her [public demo](https://wordle.hannahmariepark.com).
